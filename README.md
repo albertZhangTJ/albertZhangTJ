@@ -2,11 +2,9 @@ Hello World!
 
 I'm Albert ZHANG Tongjun. I am currently a computer science undergraduate junior at National University of Singapore. 
 
-Huge fan of C++ (sorry Linus), but can also code in C, Java, Javascript, Python, Go, and SQL.
+Huge fan of C/C++ (sorry Linus), but also have experience in Java, Javascript, Python, Go, and SQL.
 
-Specialized in Operating Systems and network.
-
-Open for any backend, OS, network related part-time (fulltime during summer and winter) job oppotunities.
+Specialized in network, operating system, security, and fuzzing. My current work in primarily on fuzzing.
 
 
 PS: I'm currently single so ... yeah
