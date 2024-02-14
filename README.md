@@ -1,10 +1,10 @@
 Hello World!
 
-I'm Albert ZHANG Tongjun. I am currently a computer science undergraduate junior at National University of Singapore. 
+I'm Albert ZHANG Tongjun. I am currently a computer science undergraduate junior at National University of Singapore.
 
-Huge fan of C/C++ (sorry Linus), but also have experience in Java, Javascript, Python, Go, and SQL.
+Huge fan of C, but also have experience in C++, Java, Javascript, Python, Go, and SQL.
 
-Specialized in network, operating system, security, and fuzzing. My current work in primarily on grammar-based fuzzing (see [here](https://github.com/albertZhangTJ/sqlancer/blob/DSQLancer/src/dsqlancer/docs/Documentation.md)).
+Specialized in network, operating system, security, and fuzzing. My current work in primarily on grammar-based fuzzing (see [here](https://github.com/albertZhangTJ/sqlancer-lancerfuzz)).
 
 
 PS: I'm currently single so ... yeah
