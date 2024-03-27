@@ -4,7 +4,7 @@ I'm Albert ZHANG Tongjun. I am currently a computer science undergraduate junior
 
 Huge fan of C, but also have experience in C++, Java, Javascript, Python, Go, and SQL.
 
-Specialized in network, operating system, security, and fuzzing. My current work in primarily on grammar-based fuzzing (see [here](https://github.com/albertZhangTJ/sqlancer-lancerfuzz)).
+Specialized in network, operating system, security, and fuzzing. My current work is primarily on grammar-based fuzzing (see [here](https://github.com/albertZhangTJ/sqlancer-lancerfuzz)).
 
 
 PS: I'm currently single so ... yeah
