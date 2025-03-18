@@ -2,7 +2,7 @@ Hello World!
 
 I'm Albert ZHANG Tongjun. I am currently a computer science undergraduate senior at National University of Singapore.
 
-Huge fan of C, but also have experience in C++, Java, Javascript, Python, Go, Rust, and SQL.
+Huge fan of C (call me a relic), but also have experience in C++, Java, Javascript, Python, Go, Rust, and SQL.
 
 My research interest lies primarily in grammar-based fuzzing for RDBMS (see [here](https://github.com/albertZhangTJ/sqlancer-lancerfuzz)), but I am also generally interested in network, operating system, security, and fuzzing.
 
